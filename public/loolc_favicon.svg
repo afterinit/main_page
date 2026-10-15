@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">loolc.com</title>
+  <desc id="desc">A simplified organize symbol from the LOOLC identity.</desc>
+
+  <path d="M20 11.2A24 24 0 1 1 11.2 20" fill="none" stroke="#FFFFFF" stroke-width="6.2" />
+  <circle cx="32" cy="32" r="13.5" fill="none" stroke="#FFFFFF" stroke-width="2.2"
+    stroke-dasharray="4 3" transform="rotate(-8 32 32)" />
+  <path d="M8.5 55.5L52 12" fill="none" stroke="#1685FF" stroke-width="2.8" stroke-linecap="square" />
+  <path d="M58 6.5L53.8 16.3L48.2 10.7Z" fill="#1685FF" />
+  <path d="M32 25.5L34.2 29.8L38.5 32L34.2 34.2L32 38.5L29.8 34.2L25.5 32L29.8 29.8Z" fill="#1685FF" />
+</svg>
